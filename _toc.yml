@@ -1,0 +1,8 @@
+format: jb-book
+root: index.md
+chapters:
+- file: governance/README.md
+  sections:
+  - file: governance/organizations/README.md    
+    sections:
+    - file: governance/organizations/intro_to_community_organizations.md 
